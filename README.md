@@ -1,7 +1,7 @@
 # Reddit Project Team 08
 
 ## Website
-[https://williamchu.georgetown.domains/6000project/](https://williamchu.georgetown.domains/6000project/)
+[https://t1an-t1an.github.io/bigdata-reddit-project-team-08/](https://t1an-t1an.github.io/bigdata-reddit-project-team-08/)
 
 
 ## Group Members
